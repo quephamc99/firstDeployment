@@ -1,0 +1,10 @@
+# Created at 2021-08-22T15:51:39.832
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation project samples\TestJenkins\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2021-08-22T15:51:39.895
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding="UTF-8"
+
+# Created at 2021-08-22T15:51:39.895
+Picked up _JAVA_OPTIONS: -Xmx512M
+
